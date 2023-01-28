@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jogo da Adivinhação | Trilha Explorer</title>
+</head>
+
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css">
+<link rel="shortcut icon" type="image/x-icon" href="./favicon/explorer.ico">
+
+
+<body>
+  <main>
+
+    <div class="screen1">
+      <h1>Jogo da Adivinhação</h1>
+      <p>Adivinhe o número entre 0 e 10</p>
+  
+      <form>
+        <input id="inputNumber" type="text">
+        <button id="btnTry">Tentar</button>
+      </form>
+    </div>
+
+    <div class="screen2 hide">
+      <h2>Acertou em 3 vezes</h2>
+      <button id="btnReset">Jogar Novamente</button>
+    </div> 
+  </main>
+
+  <script src="script.js"></script>
+
+</body>
+</html>
