@@ -17,11 +17,6 @@
 
 ## O que aprendi
 
-- O que é o conceito lifelong learning;
-- Síndrome do impostor pode ser um sintoma de uma condição médica;
-- Quais são as suas prioridades inegociáveis;
-- Do que você abrirá mão para priorizar seus estudos;
-- Está mais do que bem pesquisar e revisar código;
 - Saber o que é variável;
 - Operadores matemáticos;
 - Tipos de dados;
